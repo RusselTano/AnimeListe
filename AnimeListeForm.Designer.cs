@@ -150,6 +150,7 @@
             this.Controls.Add(this.animeListeMenuStrip);
             this.MainMenuStrip = this.animeListeMenuStrip;
             this.Name = "AnimeListeForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Anime Liste";
             this.animeListeMenuStrip.ResumeLayout(false);
             this.animeListeMenuStrip.PerformLayout();
