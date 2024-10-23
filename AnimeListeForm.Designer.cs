@@ -34,9 +34,9 @@
             this.typeAnimeRichTextBox = new System.Windows.Forms.RichTextBox();
             this.imprimerButton = new System.Windows.Forms.Button();
             this.rechercheGroupBox = new System.Windows.Forms.GroupBox();
-            this.rechercherAnimelabel = new System.Windows.Forms.Label();
-            this.rechercherAnimeTextBox = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
+            this.rechercherAnimeTextBox = new System.Windows.Forms.TextBox();
+            this.rechercherAnimelabel = new System.Windows.Forms.Label();
             this.animeListePictureBox = new System.Windows.Forms.PictureBox();
             this.animeListeMenuStrip.SuspendLayout();
             this.rechercheGroupBox.SuspendLayout();
@@ -75,7 +75,9 @@
             this.typeAnimeRichTextBox.Name = "typeAnimeRichTextBox";
             this.typeAnimeRichTextBox.Size = new System.Drawing.Size(521, 142);
             this.typeAnimeRichTextBox.TabIndex = 3;
-            this.typeAnimeRichTextBox.Text = "";
+            this.typeAnimeRichTextBox.Text = "Shōnen\t\tDragon Ball \t\nShōnen\t\tNaruto\nShōnen\t\tOne Piece\nShōnen\t\tBleach \nShōnen\t\tMy" +
+    " Hero Academia \nShojo\t\tFruits Basket\nShojo\t\tCardcaptor Sakura\nShojo\t\tNana\nShojo\t" +
+    "\tAo Haru Ride\nShojo\t\tKimi ni Todoke\n\t";
             // 
             // imprimerButton
             // 
@@ -98,14 +100,14 @@
             this.rechercheGroupBox.TabStop = false;
             this.rechercheGroupBox.Text = "Recherche:";
             // 
-            // rechercherAnimelabel
+            // button1
             // 
-            this.rechercherAnimelabel.AutoSize = true;
-            this.rechercherAnimelabel.Location = new System.Drawing.Point(15, 35);
-            this.rechercherAnimelabel.Name = "rechercherAnimelabel";
-            this.rechercherAnimelabel.Size = new System.Drawing.Size(268, 16);
-            this.rechercherAnimelabel.TabIndex = 6;
-            this.rechercherAnimelabel.Text = "Type d\'anime recherche: (Shōnen et Shojo):";
+            this.button1.Location = new System.Drawing.Point(18, 91);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(482, 52);
+            this.button1.TabIndex = 6;
+            this.button1.Text = "Afficher le nombre d\'anime";
+            this.button1.UseVisualStyleBackColor = true;
             // 
             // rechercherAnimeTextBox
             // 
@@ -116,14 +118,14 @@
             this.rechercherAnimeTextBox.Size = new System.Drawing.Size(482, 27);
             this.rechercherAnimeTextBox.TabIndex = 7;
             // 
-            // button1
+            // rechercherAnimelabel
             // 
-            this.button1.Location = new System.Drawing.Point(18, 91);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(482, 52);
-            this.button1.TabIndex = 6;
-            this.button1.Text = "Afficher le nombre d\'anime";
-            this.button1.UseVisualStyleBackColor = true;
+            this.rechercherAnimelabel.AutoSize = true;
+            this.rechercherAnimelabel.Location = new System.Drawing.Point(15, 35);
+            this.rechercherAnimelabel.Name = "rechercherAnimelabel";
+            this.rechercherAnimelabel.Size = new System.Drawing.Size(268, 16);
+            this.rechercherAnimelabel.TabIndex = 6;
+            this.rechercherAnimelabel.Text = "Type d\'anime recherche: (Shōnen et Shojo):";
             // 
             // animeListePictureBox
             // 
@@ -148,6 +150,7 @@
             this.Controls.Add(this.animeListeMenuStrip);
             this.MainMenuStrip = this.animeListeMenuStrip;
             this.Name = "AnimeListeForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Anime Liste";
             this.animeListeMenuStrip.ResumeLayout(false);
             this.animeListeMenuStrip.PerformLayout();
