@@ -26,7 +26,6 @@ namespace AnimeListe
         }
         private void policesToolStripComboBox_SelectedIndexChanged(object sender, EventArgs e)
         {
-
         }
         private void AfficherPolicesInstallees()
         {
@@ -44,7 +43,5 @@ namespace AnimeListe
                 MessageBox.Show(ex.Message);
             }
         }
-
-
     }
 }
