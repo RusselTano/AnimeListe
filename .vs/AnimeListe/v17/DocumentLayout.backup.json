@@ -25,32 +25,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 268,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AnimeListeForm.cs",
-              "DocumentMoniker": "C:\\Users\\tanol.DYLANE\\OneDrive - MONCCNB\\2CCNB\\Session1\\C#.NET\\Projet\\AnimeListe\\AnimeListeForm.cs",
-              "RelativeDocumentMoniker": "AnimeListeForm.cs",
-              "ToolTip": "C:\\Users\\tanol.DYLANE\\OneDrive - MONCCNB\\2CCNB\\Session1\\C#.NET\\Projet\\AnimeListe\\AnimeListeForm.cs*",
-              "RelativeToolTip": "AnimeListeForm.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAqwB0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T15:14:51.196Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AnimeListeForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\tanol.DYLANE\\OneDrive - MONCCNB\\2CCNB\\Session1\\C#.NET\\Projet\\AnimeListe\\AnimeListeForm.cs",
               "RelativeDocumentMoniker": "AnimeListeForm.cs",
-              "ToolTip": "C:\\Users\\tanol.DYLANE\\OneDrive - MONCCNB\\2CCNB\\Session1\\C#.NET\\Projet\\AnimeListe\\AnimeListeForm.cs [Design]*",
-              "RelativeToolTip": "AnimeListeForm.cs [Design]*",
+              "ToolTip": "C:\\Users\\tanol.DYLANE\\OneDrive - MONCCNB\\2CCNB\\Session1\\C#.NET\\Projet\\AnimeListe\\AnimeListeForm.cs [Design]",
+              "RelativeToolTip": "AnimeListeForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T14:42:39.648Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimeListeForm.cs",
+              "DocumentMoniker": "C:\\Users\\tanol.DYLANE\\OneDrive - MONCCNB\\2CCNB\\Session1\\C#.NET\\Projet\\AnimeListe\\AnimeListeForm.cs",
+              "RelativeDocumentMoniker": "AnimeListeForm.cs",
+              "ToolTip": "C:\\Users\\tanol.DYLANE\\OneDrive - MONCCNB\\2CCNB\\Session1\\C#.NET\\Projet\\AnimeListe\\AnimeListeForm.cs",
+              "RelativeToolTip": "AnimeListeForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:14:51.196Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
