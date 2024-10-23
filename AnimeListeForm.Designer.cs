@@ -59,7 +59,6 @@
             this.policesToolStripComboBox.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.policesToolStripComboBox.Name = "policesToolStripComboBox";
             this.policesToolStripComboBox.Size = new System.Drawing.Size(121, 28);
-            this.policesToolStripComboBox.SelectedIndexChanged += new System.EventHandler(this.policesToolStripComboBox_SelectedIndexChanged);
             // 
             // typeAnimeLabel
             // 
@@ -152,7 +151,6 @@
             this.MainMenuStrip = this.animeListeMenuStrip;
             this.Name = "AnimeListeForm";
             this.Text = "Anime Liste";
-            this.Load += new System.EventHandler(this.AnimeListeForm_Load);
             this.animeListeMenuStrip.ResumeLayout(false);
             this.animeListeMenuStrip.PerformLayout();
             this.rechercheGroupBox.ResumeLayout(false);
