@@ -17,7 +17,6 @@ namespace AnimeListe
         {
             InitializeComponent();
         }
-<<<<<<< HEAD
 
         private void AnimeListeForm_Load(object sender, EventArgs e)
         {
@@ -44,7 +43,5 @@ namespace AnimeListe
                 MessageBox.Show(ex.Message);
             }
         }
-=======
->>>>>>> 04ebe80798bcfd7f96ec3fba9c889580cdfc8397
     }
 }
