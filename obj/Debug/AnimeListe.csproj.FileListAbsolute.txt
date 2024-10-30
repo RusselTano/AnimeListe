@@ -8,3 +8,14 @@ C:\Users\tanol.DYLANE\OneDrive - MONCCNB\2CCNB\Session1\C#.NET\Projet\AnimeListe
 C:\Users\tanol.DYLANE\OneDrive - MONCCNB\2CCNB\Session1\C#.NET\Projet\AnimeListe\obj\Debug\AnimeListe.csproj.CoreCompileInputs.cache
 C:\Users\tanol.DYLANE\OneDrive - MONCCNB\2CCNB\Session1\C#.NET\Projet\AnimeListe\obj\Debug\AnimeListe.exe
 C:\Users\tanol.DYLANE\OneDrive - MONCCNB\2CCNB\Session1\C#.NET\Projet\AnimeListe\obj\Debug\AnimeListe.pdb
+C:\Users\kengm\Desktop\cour\AUTOMNES 2024\PROG1236\projet1\AnimeListe\bin\Debug\AnimeListe.exe.config
+C:\Users\kengm\Desktop\cour\AUTOMNES 2024\PROG1236\projet1\AnimeListe\bin\Debug\AnimeListe.exe
+C:\Users\kengm\Desktop\cour\AUTOMNES 2024\PROG1236\projet1\AnimeListe\bin\Debug\AnimeListe.pdb
+C:\Users\kengm\Desktop\cour\AUTOMNES 2024\PROG1236\projet1\AnimeListe\obj\Debug\AnimeListe.csproj.AssemblyReference.cache
+C:\Users\kengm\Desktop\cour\AUTOMNES 2024\PROG1236\projet1\AnimeListe\obj\Debug\AnimeListe.AnimeListeForm.resources
+C:\Users\kengm\Desktop\cour\AUTOMNES 2024\PROG1236\projet1\AnimeListe\obj\Debug\AnimeListe.Properties.Resources.resources
+C:\Users\kengm\Desktop\cour\AUTOMNES 2024\PROG1236\projet1\AnimeListe\obj\Debug\AnimeListe.csproj.GenerateResource.cache
+C:\Users\kengm\Desktop\cour\AUTOMNES 2024\PROG1236\projet1\AnimeListe\obj\Debug\AnimeListe.csproj.CoreCompileInputs.cache
+C:\Users\kengm\Desktop\cour\AUTOMNES 2024\PROG1236\projet1\AnimeListe\obj\Debug\AnimeListe.exe
+C:\Users\kengm\Desktop\cour\AUTOMNES 2024\PROG1236\projet1\AnimeListe\obj\Debug\AnimeListe.pdb
+C:\Users\kengm\Desktop\cour\AUTOMNES 2024\PROG1236\projet1\AnimeListe\bin\Debug\Data\document.rtf
